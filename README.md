@@ -19,7 +19,7 @@ How to push a new folder (containing other folders and files) to an existing git
  Python Create Text File
  * https://www.pythontutorial.net/python-basics/python-create-text-file/
 
- Pandas Documentation : https://pandas.pydata.org/docs/index.html
+ Pandas Documentation: https://pandas.pydata.org/docs/index.html
 Including...
 
  * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
