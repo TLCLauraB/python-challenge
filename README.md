@@ -1,11 +1,17 @@
 # python-challenge
 # Homework Repo for Challenge 3
 
+## Author: Laura Bishop
+
+### Overview
+
 I received help and support from my fellow Data Vis classmates via our Discord Server (both through voice chat and text), as well as our class-provided Slack Channel.
+
+I used the Python code as per the module and utilized Pandas as a functions library. I debugged using Jupyter Notebooks but converted the files back over to Python to ensure compliance with the homework assignment.
 
 I also utilized the following websites:
 
- # Web Sites Used
+### Web Sites Used
 
 Automate the Boring Stuff with Python
 * https://automatetheboringstuff.com/
@@ -30,7 +36,7 @@ What does it mean LF will be replaced by CRLF the next time git touches it
  * https://stackoverflow.com/questions/73184797/what-does-it-mean-lf-will-be-replaced-by-crlf-the-next-time-git-touches-it
 
 
-# YouTube Links Used
+### YouTube Links Used
 
 Automate the Boring Stuff with Python - YouTube Channel
 * https://youtu.be/1F_OgqRuSdI
