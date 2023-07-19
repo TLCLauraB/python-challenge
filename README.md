@@ -37,10 +37,11 @@ Including...
 What does it mean LF will be replaced by CRLF the next time git touches it
  * https://stackoverflow.com/questions/73184797/what-does-it-mean-lf-will-be-replaced-by-crlf-the-next-time-git-touches-it
 
- Python Built in Functions Documentation https://www.w3schools.com/python/python_ref_functions.asp Including...
+ Python Built-in Functions Documentation https://www.w3schools.com/python/python_ref_functions.asp Including...
 
-Python map() Function
 * https://www.w3schools.com/python/ref_func_map.asp
+* https://www.w3schools.com/python/gloss_python_escape_characters.asp
+
 
 ## YouTube Links Used
 
