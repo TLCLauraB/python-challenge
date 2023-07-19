@@ -3,7 +3,7 @@
 
 ## Author: Laura Bishop
 
-### Overview
+## Overview
 
 I received help and support from my fellow Data Vis classmates via our Discord Server (both through voice chat and text), as well as our class-provided Slack Channel.
 
@@ -37,8 +37,7 @@ Including...
 What does it mean LF will be replaced by CRLF the next time git touches it
  * https://stackoverflow.com/questions/73184797/what-does-it-mean-lf-will-be-replaced-by-crlf-the-next-time-git-touches-it
 
- Python Built in Functions
- * https://www.w3schools.com/python/python_ref_functions.asp
+ Python Built in Functions Documentation https://www.w3schools.com/python/python_ref_functions.asp Including...
 
 Python map() Function
 * https://www.w3schools.com/python/ref_func_map.asp
