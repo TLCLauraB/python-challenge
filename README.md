@@ -34,14 +34,13 @@ Including...
  * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.max.html
  * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.idxmax.html
 
-What does it mean LF will be replaced by CRLF the next time git touches it
- * https://stackoverflow.com/questions/73184797/what-does-it-mean-lf-will-be-replaced-by-crlf-the-next-time-git-touches-it
-
- Python Built-in Functions Documentation https://www.w3schools.com/python/python_ref_functions.asp Including...
+  Python Built-in Functions Documentation https://www.w3schools.com/python/python_ref_functions.asp Including...
 
 * https://www.w3schools.com/python/ref_func_map.asp
 * https://www.w3schools.com/python/gloss_python_escape_characters.asp
 
+What does it mean LF will be replaced by CRLF the next time git touches it
+ * https://stackoverflow.com/questions/73184797/what-does-it-mean-lf-will-be-replaced-by-crlf-the-next-time-git-touches-it
 
 ## YouTube Links Used
 
