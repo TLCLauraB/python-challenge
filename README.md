@@ -9,9 +9,11 @@ I received help and support from my fellow Data Vis classmates via our Discord S
 
 I used the Python code as per the module and utilized Pandas as a functions library. I debugged using Jupyter Notebooks but converted the files back over to Python to ensure compliance with the homework assignment.
 
-I also utilized the following websites:
+You may also notice several commented-out function calls that I labeled 'Test for Success'. These were milestone tests for me to make sure the functions I was calling were actually performing as desired before incorporating into the whole.
 
-### Web Sites Used
+I utilized the following websites:
+
+## Web Sites Used
 
 Automate the Boring Stuff with Python
 * https://automatetheboringstuff.com/
@@ -35,8 +37,13 @@ Including...
 What does it mean LF will be replaced by CRLF the next time git touches it
  * https://stackoverflow.com/questions/73184797/what-does-it-mean-lf-will-be-replaced-by-crlf-the-next-time-git-touches-it
 
+ Python Built in Functions
+ * https://www.w3schools.com/python/python_ref_functions.asp
 
-### YouTube Links Used
+Python map() Function
+* https://www.w3schools.com/python/ref_func_map.asp
+
+## YouTube Links Used
 
 Automate the Boring Stuff with Python - YouTube Channel
 * https://youtu.be/1F_OgqRuSdI
